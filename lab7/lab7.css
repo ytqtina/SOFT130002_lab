@@ -43,7 +43,7 @@ h1 {
     background-color: white;
 
 }
-input[type="button"] {
+button{
     background-color: #EF6C00;
     color: white;
     border: 0;
